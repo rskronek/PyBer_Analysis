@@ -20,7 +20,7 @@
   Also as seen in the image below, Urban cities has the lowest fares, be it Average per ride or Average per driver.
   ![Chart](./ride_summ.png)
   
-# Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+# Summary:
   ![Chart](./linechart.png)
   
    Eventhough the numbers looks pretty normal, following recommendations may help
